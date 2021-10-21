@@ -10,6 +10,7 @@
     background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/livinus.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 nav{
