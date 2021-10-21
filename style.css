@@ -36,6 +36,8 @@ nav{
     color: #fff;
     text-decoration: none;
     font-size: 13px;
+    width: 100%;
+    display: inline-block;
 }
 
 .nav-links ul li::after{
